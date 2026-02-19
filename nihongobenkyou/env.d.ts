@@ -1,0 +1,1 @@
+declare module 'kanjivg-js/vite-plugin';
